@@ -17,11 +17,11 @@ spec:
       containers:
         - name: app-container
           image: gcr.io/abdallah-iti/python_image
+          ports:
+            - containerPort: 8000
           env:
             - name: REDIS_HOST
-              value: redis-service.default.svc.cluster.local
-          containerPort:
-            - port : 8000    
+              value: redis-service.default.svc.cluster.local  
   replicas: 3
   selector:
     matchLabels:
