@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "abdallah-iti",
+  "private_key_id": "86394240353123cc7da51e4907e4499c19690310",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC76LI+FxfHCECQ\nj1VvJekHLkZNUG7VvVB/EIuCqCVJBGaeG5DU2MQTc9yJ7VPf7r+S/xUSD5npFgtq\nEQ9mMgWYLNStA/haxUACmP5GVSjj0MX3bkYqKf6p+V9ZhroZwn5Yo/AW3S+Hchlh\n6HvjPZqLp1/iqQ4Gc+j1GcPAR6H4u6FoCfB6ZVu5Cz7o65GaMmMcp0S8d9vm5k+S\n4m8XsDUMoYIdsEWVS3AazlbIxRKDvgR0Qxor4WP4YpETVdEnvdUFDwG1D3jIIppQ\nFo4axS9hIrgLRXItD9NEvhdTjALNMilhkKBEcpuHJz8vWGgijhykSQBbh7Pz0e7n\nMu/+fGhBAgMBAAECgf9IX4qtkp3JCssGfC44bcfsYn/kenycPIFeCM4ZUXakdacQ\ncY2KBr/kviGZZGi2cKSLxhm92xE5TqqwYq6Lreus4/3SpYGb2sNmPLoZKYBjCwYB\nRqryxaBQPYivJc6Htvrywpfpaa3ksECwDqeoqxF0uGjPfYCC+7tXeGG5ed2CIhdY\n64RZbrFW1Hvo9pDMdAe7j5YKkJNqzR2z9FBIvDgpIU8wfTjTAqvNSEC8HtOa3rZm\nKEdJAnjqGxFTmU5lhxGPduZe6VE2FVY/gu44/N9caHZBvYmWDmB9zFdF6WY66gWD\nTGltKgM/8YINNMQhzYthvknQhKjTLUHQKRAxywECgYEA/yGmf0fgCZ+9ZDZFev2H\njSePdHAIptOQEqli2eA4irvaIsSQy8Xirt8e/V7OteElwAbsCCwXeui+4nD7n3hv\n/nGzqqkrIT/QTDieQUpsjt3KEQJVf9+12Elas6mU4rS4DjF2F77K9BbQ50nEcV9D\nNBWYbQuUCr7uT9kHWz/JWDECgYEAvIx1+AcIljJt/SAXnK7K9KGDg3DpMPfgBI97\nYr9jqhEKLTAaxdkw8gM0qNFdy/PelUEFV/17nGf444QP2nWTxTYP461bBrorfo/Q\noaBEIOfgH1ZNbhQ/l/AHZQlf1G7mf9smrAcD+4ZCuH53W6lo09OGVRwCAiZBZXFO\nLH0gHRECgYEAk8SjsHiqtChHA3HDkFajWggduGzjNey3N3fP/y000nW3BAghbUSx\n5GLqigmNZB6BRNU9hAY1m0SOuoyB0H1rME4ep6vPhTR2qo7oahx2/9BJpsxZRPUH\nV7w0wnZn+158dAwFv/8LgZBtcmhxVNC+Fb6kSBQ6rHalhK3I6vro3SECgYEAmDoP\nRKDpHdq5UpSGe8njsn50X7rZit+VzhjJ1YAQR05amQEtnG8uRTaxXVssD25lVruY\nROIy2qRXHdmRsx8any52xatAwr2sQBJ8rwFl/+s12BcljKpsbY8taTWYWTrwfmnB\nX0KKxJgxZiM02px8NgmhezWRqYqZYf2I0AJ12wECgYALoAfG7EX0ukPLFCViz14v\nOEvmmy1gi1i4O0YpZ6ZhZ4rFrkknzyyyh9e2mkd3ihh8Q64w0B9SODCKcVHmTn6W\nP7sjcVM9LLauzokrb5VGtcj62DDXIxFUdAxLu14VKBKFEajz+Pi0zpEvFD9/eiSj\noU/TqoGhqV015PxgHqEfaQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mygcp-task-serv-acc@abdallah-iti.iam.gserviceaccount.com",
+  "client_id": "103968739108449991764",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mygcp-task-serv-acc%40abdallah-iti.iam.gserviceaccount.com"
+}
