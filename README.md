@@ -9,7 +9,7 @@
   * $  docker tag redis   gcr.io/abdallah-devops-iti/redis_image
   * $  docker push  gcr.io/abdallah-devops-iti/redis_image
 ### Check that the images had been pushed
-![home_Page Image](../pic/1.png)
+![home_Page Image](https://github.com/Abdalla1297/GCP-task/blob/main/pic/1.png)
  
 ### Now You can run terraform code
   * $ terraform init
@@ -18,7 +18,7 @@
 ### After vm cereation
  ## U must pass the yaml files to it 
   # U can use this code 
-  * $ gcloud compute scp --recurse ~/gcp-test1/kube_files/ private-vm-instance:~  --zone"us-east4-b"   --tunnel-through-iap 
+  * $ gcloud compute scp --recurse hame/username/gcp-test1/kube_files/ private-vm-instance:~  --zone"us-east4-b"   --tunnel-through-iap 
   # --recurse after it the path of your yaml file
   # And after the space is the destination and it the vm name and : the path on it
   # --zone the zone that your vm on it
@@ -32,7 +32,7 @@
  ## U can use this command
  * $ kubectl get svc
 ### Copy the ip and open it in Ur browser
-![home_Page Image](../pic/2.png)
+![home_Page Image](https://github.com/Abdalla1297/GCP-task/blob/main/pic/2.png)
 
   
 
