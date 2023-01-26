@@ -21,9 +21,6 @@ resource "google_container_cluster" "private-cluster" {
     }
   }
 
-  ip_allocation_policy {
-
-  }
   node_config {
     service_account = google_service_account.project-service-account.email
     oauth_scopes = [
