@@ -13,7 +13,9 @@ resource "google_container_cluster" "private-cluster" {
     depends_on = [
     module.network
   ]
+  ip_allocation_policy {
 
+  }
   master_authorized_networks_config {
     cidr_blocks {
       cidr_block   = "10.0.1.0/24"
