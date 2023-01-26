@@ -18,7 +18,7 @@
 ### After vm cereation
  ## U must pass the yaml files to it 
   # U can use this code 
-  * $ gcloud compute scp --recurse hame/username/gcp-test1/kube_files/ private-vm-instance:~  --zone"us-east4-b"   --tunnel-through-iap 
+  * $ gcloud compute scp --recurse hame/username/gcp-test1/kube_files/ private-vm:~  --zone"us-east4-b"   --tunnel-through-iap 
   # --recurse after it the path of your yaml file
   # And after the space is the destination and it the vm name and : the path on it
   # --zone the zone that your vm on it
