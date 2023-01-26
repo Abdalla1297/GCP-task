@@ -12,7 +12,7 @@ resource "google_service_account" "project-service-account" {
 #grant permissions for service account
 resource "google_project_iam_binding" "project-service-account-iam"{
   project = "abdallah-iti"
-  role    = "projects/${google_service_account.project-service-account.project}/roles/${google_project_iam_custom_role.customRole.role_id}"
+  role    = "projects/${google_service_account.project-service-account.project}/roles/${google_project_iam_custom_role.MyCustomRole.role_id}"
   members = [
     "serviceAccount:${google_service_account.project-service-account.email}"
   ]
